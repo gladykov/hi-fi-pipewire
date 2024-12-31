@@ -6,12 +6,15 @@ Pipewire configuration files for HiFi audio. Useful when using DAC with higher s
 
 ## How to use it:
 
-1. Download
+1. Download all files
 2. `chmod +x install.sh`
 3. `chmod +x switch-hifi.sh`
 4. `./install.sh`
-5. `./switch-hifi.sh`
-6. Enjoy!
+5. `./switch-hifi.sh` to enable
+6. `./switch-hifi.sh` again to disable
+7. Enjoy!
+
+Check `pw-top` to see if it worked, while sound is being played. 
 
 ## More reading
 
